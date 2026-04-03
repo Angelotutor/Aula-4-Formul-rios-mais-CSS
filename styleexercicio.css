@@ -1,0 +1,12 @@
+label {
+	width: 300 px;
+	padding: 20 px;
+	background-color: red;
+	border-radius: 8px;
+}
+	
+	
+button:hover {
+	background-color: green;
+	padding: 10px;
+}

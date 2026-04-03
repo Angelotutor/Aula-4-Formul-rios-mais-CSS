@@ -1,0 +1,30 @@
+h1 {
+  color: orange;
+}
+
+p {
+  color: blue;
+}
+
+meu-paragrafo {
+  color: red;
+  font-weight: bold;
+}
+
+#meu-outro-paragrafo {
+  color: green;
+}
+
+#btn-confirmar {
+  color: white;
+  background-color: #108f23;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+#botaoconfirma:hover {
+  background-color: rgb(29, 34, 196);
+  scale: 1.01;
+}
